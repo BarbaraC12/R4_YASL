@@ -1,7 +1,9 @@
 # YASL
+
 Yet Another Stack Language
 
-:warning: **Warning**: It is Rush project from 42 school.  
+
+:warning: **Warning**: It is Rush project from 42 school made in team with bsavinel.  
 :warning: **Warning**: You can take inspiration from it but please don't copy / paste what you don't understand.
 
 ## Yasl Description
@@ -20,6 +22,10 @@ much limited, due to lack of powerfull framework. YASL is reported still being u
 Malaisia and Singapore. The YASL name have been also reused for an open‐source  
 project, a Java framework over Swing.
 
+## Ressources
+
+The [ANSI escape code](https://en.wikipedia.org/wiki/ANSI_escape_code) for the main courses : display_b64
+
 ### Usage starter
 
 ex0- `./yasl_hw`  
@@ -33,3 +39,5 @@ ex6- `./yasl_interactive`
 ### Usage main-course
 
 `cat <path_to_img> | ./display_b64`
+
+@bcano @bsavinel 2022
